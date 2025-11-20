@@ -1,4 +1,5 @@
-### Проект в Idea
+### Многомодульный проект в Idea
+
 
 ![idea_project.png](doc/idea_project.png)
 
@@ -139,3 +140,6 @@ $ ./gradlew publish
 ![nexus.png](doc/nexus.png)
 
 ![nexus1.png](doc/nexus1.png)
+
+Ссылки:
+[Многомодульный проект](https://v.perm.ru/index.php/component/content/article/multi-module-project?catid=15&Itemid=101)
